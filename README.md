@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+- 🔭 I’m currently looking for Full-Time job opportunities.
+- 🎓 I have a degree from Harvard University in Computer Science & Mathematics.
+- 🧠 I have advanced skills in Software & Web Development, Machine Learning & AI, and Applied Research.
 
 <!--
 **duduel/duduel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
