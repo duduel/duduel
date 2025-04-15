@@ -1,6 +1,5 @@
 ### Hi there
 
-- 🔭 I’m currently looking for Full-Time job opportunities.
 - 🎓 I have a degree from Harvard University in Computer Science & Mathematics.
 - 🧠 I have advanced skills in Software & Web Development, Machine Learning & AI, and Applied Research.
 
